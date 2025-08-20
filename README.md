@@ -89,3 +89,4 @@ Retail organizations generate large volumes of transactional data, but raw data 
 4.Geographic Expansion – Revenue heatmap helps visualize strong and weak markets.
 
 # Screenshots
+![Dashboard](https://github.com/joelvm04/Tata_Retails_Dashboard/blob/main/Tata_retails.png)
